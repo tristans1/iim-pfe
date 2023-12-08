@@ -1,6 +1,8 @@
 # BrutalismJS
 
-_BrutalismJS is an innovative JavaScript library that animates video or image streams by adding graphic effects inspired by brutalist design. Uniquely, these effects dynamically adapt to the audio stream synchronized with the video._
+_BrutalismJS is an innovative JavaScript library that animates video or image streams by adding graphic effects inspired by brutalist design. Uniquely, these effects dynamically adapt to the audio stream synchronized with the video.
+
+"Brutalism" is a graphic style that stands out with raw geometric shapes, a fairly aggressive vision, black, white and dynamic color to complete it all. In terms of musical styles, those that best match this graphic style (and those to whom we dedicate our JavaScript library) are: metal, rock, techno but also hyperpop._
 
 ### Characteristics of Brutalism
 
